@@ -160,8 +160,8 @@ CodeAlpha_Iris_Classification/
 ├── requirements.txt
 
 └── screenshots/
+<img width="501" height="393" alt="confusion_matrix" src="https://github.com/user-attachments/assets/93108d14-134e-4e79-a5fc-0bd8b1ec7d15" />
 
-    <img width="501" height="393" alt="confusion_matrix" src="https://github.com/user-attachments/assets/fc6294b6-e71a-4111-b79a-8545cc402ea4" />
 
 ---
 
@@ -174,12 +174,12 @@ Through this project, I learned:
 - Random Forest Classifier
 - Model Evaluation
 - Confusion Matrix Analysis
-- Machine Learning Workflow
+- Data Science Workflow
 
 ---
 
 ## Author
 
-Name: Your Name
+Name:Mantra Parashar
 
-Internship: CodeAlpha Machine Learning Internship
+Internship: CodeAlpha Data Science Internship
