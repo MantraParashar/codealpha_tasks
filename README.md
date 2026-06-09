@@ -182,4 +182,4 @@ Through this project, I learned:
 
 Name:Mantra Parashar
 
-Internship: CodeAlpha Data Science Internship
+Internship:CodeAlpha Data Science Internship
